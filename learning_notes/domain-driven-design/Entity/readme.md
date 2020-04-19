@@ -1,0 +1,1 @@
+@link: https://enterprisecraftsmanship.com/posts/entity-base-class/

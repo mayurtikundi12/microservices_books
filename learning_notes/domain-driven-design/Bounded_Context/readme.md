@@ -1,0 +1,1 @@
+@link: https://martinfowler.com/bliki/BoundedContext.html
